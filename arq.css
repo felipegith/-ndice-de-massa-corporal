@@ -1,0 +1,92 @@
+body{
+    background-color:  #CE7676;
+}
+.containerTable{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    margin-top: 75px;
+}
+.containerImageIm{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.textTable{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 15px
+}
+.textImc{
+    font-family: 'Ubuntu';
+    color: #FFF;
+}
+.containerfin{
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.containerfinn{
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+input{
+    width: 40%;
+    height: 30px;
+    color: #CE7676;
+    border-radius: 10px;
+    border: 0;
+    background-color: #DF9C9C;
+    font-weight: bold;
+    padding: 18px;
+    text-align: center;
+}
+.textInput{
+    font-family: 'Ubuntu';
+    color:#fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+.containerCal{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px
+}
+button{
+    border: 0;
+    background-color:  #DF9c9c;
+    padding: 10;
+    border-radius: 10px;
+    width: 25%;
+    height: 30px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Ubuntu';
+}
+.containerBottomResu{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    flex-direction: column;
+}
+.textBottomRe{
+    color: #fff;
+    font-family: 'Ubuntu';
+}
+.textScript{
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Ubuntu';
+    font-size: 18px;
+}
